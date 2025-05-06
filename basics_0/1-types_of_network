@@ -1,14 +1,11 @@
 #!/usr/bin/env bash
-# This script answers the multiple choice questions about types of networks.
+# This script answers multiple choice questions about network types.
 
-# Answer to the first question:
-# The correct answer is: 3 (LAN)
+# Answer for the first question: What type of network is a computer in local connected to? (LAN)
+echo "3" 
 
-# Answer to the second question:
-# The correct answer is: 2 (WAN)
-
-# Answer to the third question:
-# The correct answer is: 1 (Internet)
+# Answer for the second question: What type of network could connect an office in one building to another office in a building a few streets away? (LAN)
 echo "3"
+
+# Answer for the third question: What network do you use when you browse www.google.com from your smartphone (not connected to WiFi)? (WAN)
 echo "2"
-echo "1"
