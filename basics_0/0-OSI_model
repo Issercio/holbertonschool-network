@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
-# This script outputs the correct answers to OSI model multiple choice questions
+# This script answers the multiple choice questions about the OSI model.
 
+# Answer to the first question:
+# The correct answer is: 2 (The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology)
+
+# Answer to the second question:
+# The correct answer is: 2 (From the lowest to the highest level)
 echo "2"
 echo "2"
-

@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
-# This script outputs the correct answers to the UDP and TCP multiple choice questions
+# This script answers the multiple choice questions about UDP and TCP protocols.
 
+# Answer to the first question:
+# The correct answer is: 1 (It is a protocol that is transferring data in a slow way but surely)
+
+# Answer to the second question:
+# The correct answer is: 2 (It is a protocol that is transferring data in a fast way and might lose data along in the process)
+
+# Answer to the third question:
+# The correct answer is: 1 (Have you received boxes x, y, z?)
 echo "1"
 echo "2"
 echo "1"
