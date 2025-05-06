@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script contains answers for MAC and IP address multiple choice questions
+
+echo "2"
+echo "1"
