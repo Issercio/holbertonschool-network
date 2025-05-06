@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script contains answers for UDP and TCP multiple choice questions
+# This script outputs the correct answers to the UDP and TCP multiple choice questions
 
 echo "1"
 echo "2"

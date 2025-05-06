@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script contains answers for the types of network multiple choice questions
+# This script outputs the correct answers to the types of network multiple choice questions
 
 echo "3"
 echo "2"
