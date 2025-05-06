@@ -1,8 +1,2 @@
-#!/usr/bin/env bash
-# This script answers multiple choice questions about MAC and IP addresses.
-
-# Answer for the first question: What is a MAC address? (The unique identifier of a network interface)
-echo "2"
-
-# Answer for the second question: What is an IP address? (It is to devices connected to a network what postal address is to houses)
-echo "1"
+2
+1
