@@ -27,14 +27,14 @@ A visual diagram has been created to illustrate the flow of a typical web reques
 
 
 ## 📂 Project Structure
-
+'''
 holbertonschool-network/
 └── what_happens_when_your_type_google_com_in_your_browser_and_press_enter/
 ├── 0-blog_post # URL to blog post
 ├── 1-what_happen_when_diagram # URL to request flow diagram
 ├── network_request_flow.png # Request flow image
 └── README.md # Project documentation
-
+'''
 
 ## 🧠 Why This Matters
 
