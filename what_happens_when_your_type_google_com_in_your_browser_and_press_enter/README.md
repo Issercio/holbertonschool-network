@@ -16,16 +16,13 @@ I’ve written a comprehensive blog post explaining each step of the process, in
 - Database Interaction
 
 📖 **Read the full article here:**  
-👉 [My Blog Post on Medium](https://www.linkedin.com/pulse/what-happens-when-you-type-httpswwwgooglecom-press-enter-jaille-kj9if/)
+👉 [My Blog Post on Linkedin](https://www.linkedin.com/pulse/what-happens-when-you-type-httpswwwgooglecom-press-enter-jaille-kj9if/)
 
 
 ## 🖼️ Request Flow Diagram
 
 A visual diagram has been created to illustrate the flow of a typical web request.
-
-![Request Flow Diagram](https://imgur.com/a/OSE8xw8)
-
-📎 Or view it directly:  
+  
 👉 [Diagram URL](https://www.mermaidchart.com/app/projects/36c2d757-7740-4bcc-9890-3000a794a9ab/diagrams/1a06d2c7-954b-437d-954c-c0bd83c7c244)
 
 
@@ -51,7 +48,7 @@ Understanding the end-to-end request process is essential for anyone working in:
 ## ✍️ Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/Issercio)  
+GitHub: [@Issercio](https://github.com/Issercio)  
 
 ---
 
